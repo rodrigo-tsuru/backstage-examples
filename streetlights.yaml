@@ -11,6 +11,8 @@ metadata:
     github.com/project-slug: asyncapi/spec
 spec:
   type: asyncapi
+  lifecycle: production
+  owner: NRT
   definition: |
     asyncapi: '2.6.0'
     info:
