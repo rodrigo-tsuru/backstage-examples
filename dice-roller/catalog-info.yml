@@ -7,7 +7,7 @@ metadata:
     - go
   annotations:
     'backstage.io/kubernetes-id': dice-roller
-    'backstage.io/kubenetes-namespace': rodrigo-tsuru
+    'backstage.io/kubernetes-namespace': rodrigo-tsuru
 spec:
   type: service
   lifecycle: production
